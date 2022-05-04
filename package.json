@@ -8,8 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
-    "cheerio": "*",
     "express": "^4.17.2",
     "puppeteer": "^13.7.0"
   },
