@@ -9,3 +9,5 @@
 # changing station name
     line 7 .- let j = stations.findIndex(e=>e.filename=='r-k-puram') <-change name here
     name should be in ./stations.js:  {filename: "ito",...
+# stored data 
+    data extracted will be appended in ./aqicsv/FILENAME.csv
