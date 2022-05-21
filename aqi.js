@@ -47,7 +47,7 @@ function loadDate(day, month, year,{filename,url}) {
   });
 }
 const load = async (dd, mm, yyyy, NumberOfDays) => {
-  for (let j = j; j < j+1; j++) {
+  for (let u = j; u < j+1; u++) {
     for (let i = 0; i < NumberOfDays; i++) {
       var day = new Date(yyyy, mm - 1, dd);
       // console.log(day.toDateString());
